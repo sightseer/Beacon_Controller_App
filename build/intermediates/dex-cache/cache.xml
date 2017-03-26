@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\school\graduate\lab\iTOY\AndroidTest\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\app\libs\firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40379dc17021767e23597c2b23cda32ed6f37155">
+        <dex dex="D:\school\graduate\lab\iTOY\AndroidTest\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.3.1_4a0575f66d44a37896f7cb7fa3ee3e251929078e.jar" />
+    </item>
+    <item
+        jar="C:\Users\XYin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\school\graduate\lab\iTOY\AndroidTest\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\app\build\intermediates\pre-dexed\debug\gson-2.3.1_255c56d773ad128ab5596886febc89fb5492e74d.jar" />
+    </item>
+    <item
+        jar="C:\Users\XYin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\school\graduate\lab\iTOY\AndroidTest\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_863db1bc80627db7efd8d826b918112b40e08cb9.jar" />
+    </item>
+
+</items>

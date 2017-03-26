@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 检查单位item布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/listview_item_pressed_style"
+    android:gravity="center_vertical"
+    android:descendantFocusability="blocksDescendants"
+    >
+
+
+    <Spinner
+        android:entries="@array/andor"
+        android:layout_height="wrap_content"
+        android:layout_width="0px"
+        android:layout_weight="2"
+        android:focusable="false"
+        android:id="@+id/spinner1"/>
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:clickable="false"
+        android:padding="8dp"
+        android:textColor="#626466"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/tvValue"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:clickable="false"
+        android:padding="8dp"
+        android:textColor="#626466"
+        android:textSize="15sp" />
+
+    <!--
+        <CheckBox
+            android:id="@+id/cbCheckBox"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@drawable/checkbox_checked_style"
+            android:focusable="false" />
+         -->
+
+            <ImageView
+                android:id="@+id/img_del"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/delete" />
+
+
+</LinearLayout>

@@ -1,0 +1,679 @@
+[
+    {
+        "outputFile": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 19,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 57,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 55,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 52,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 41,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 41,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endColumn": 52,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 52,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 839
+                },
+                "from": {
+                    "file": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 844,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "C:\\Users\\XYin\\AndroidStudioProjects\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 637
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 19,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 57,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 55,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 52,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 41,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 41,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 52,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 52,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn_noBug_v2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 637
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 19,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 57,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 55,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 52,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 41,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 41,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 52,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 52,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10-EditAddDelBtn\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 637
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 57,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 55,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 52,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 41,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 52,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "D:\\school\\graduate\\lab\\iTOY\\AndroidTest\\ListViewAndCheckBox10\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

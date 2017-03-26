@@ -1,0 +1,2 @@
+This android app can connect to the beacon and is used to receive the signal and sensor data from the beacon.The app can make some action according  to the data. 
+I modify the UI of this app and adjust the framework based on the labmate's code.
